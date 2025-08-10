@@ -37,31 +37,13 @@ export const portfolioData = {
   ],
   projects: [
     {
-      title: "Project One: E-commerce Platform",
+      title: "Portfolio",
       description:
-        "A feature-rich e-commerce website with a product catalog, shopping cart, and user authentication.",
-      tags: ["React", "Node.js", "MongoDB"],
-      liveUrl: "#",
-      githubUrl: "#",
-      imageUrl: "https://placehold.co/600x400/1e293b/ffffff?text=Project+One",
-    },
-    {
-      title: "Project Two: Task Management App",
-      description:
-        "A collaborative tool with drag-and-drop boards and real-time updates.",
-      tags: ["React", "Firebase", "Tailwind CSS"],
-      liveUrl: "#",
-      githubUrl: "#",
-      imageUrl: "https://placehold.co/600x400/1e293b/ffffff?text=Project+Two",
-    },
-    {
-      title: "Project Three: Personal Blog",
-      description:
-        "A modern blog built with Next.js for server-side rendering and performance.",
-      tags: ["Next.js", "React", "Markdown"],
-      liveUrl: "#",
-      githubUrl: "#",
-      imageUrl: "https://placehold.co/600x400/1e293b/ffffff?text=Project+Three",
+        "A responsive personal portfolio built with React and Tailwind CSS to showcase my skills, projects, and certifications. Includes a functional contact form using EmailJS.",
+      tags: ["React", "Tailwind", "EmailJS"],
+      liveUrl: "https://acs558-portfolio.vercel.app/",
+      githubUrl: "https://github.com/ACS558/Portfolio",
+      imageUrl: "/public/portfolio_preview.jpg",
     },
   ],
 };
