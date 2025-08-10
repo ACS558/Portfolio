@@ -6,13 +6,13 @@ export const portfolioData = {
   contact: {
     email: "shaikalimohammad@outlook.com",
     phone: "+91 6301520199",
-    cv: "/path/to/your/cv.pdf",
-    resumeImage: "https://placehold.co/800x1131/ffffff/1e293b?text=Your+Resume",
+    cv: "/resume/Shaik_Mohammad_Ali_Resume.pdf",
+    resumeImage: "/resume/resume.jpg",
   },
   socials: {
     github: "https://github.com/ACS558",
     linkedin: "https://linkedin.com/in/shaik-mohammad-ali-4217aa252",
-    x: "https://x.com/yourusername",
+    x: "https://x.com/ShaikMo93847059",
   },
   about: {
     summary:
@@ -43,7 +43,7 @@ export const portfolioData = {
       tags: ["React", "Tailwind", "EmailJS"],
       liveUrl: "https://acs558-portfolio.vercel.app/",
       githubUrl: "https://github.com/ACS558/Portfolio",
-      imageUrl: "/public/portfolio_preview.jpg",
+      imageUrl: "/portfolio_preview.jpg",
     },
   ],
 };
